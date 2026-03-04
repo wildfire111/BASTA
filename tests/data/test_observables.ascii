@@ -1,2 +1,2 @@
-# starid    Teff    Teff_err
-teststar    5800    50
+# starid    Teff    Teff_err    logg    logg_err    FeH    FeH_err
+teststar    5825    50          4.30    0.07        0.10   0.026
